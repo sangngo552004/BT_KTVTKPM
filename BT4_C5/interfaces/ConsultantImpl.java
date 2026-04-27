@@ -1,4 +1,4 @@
-package BT4_C5.interface;
+package BT4_C5.interfaces;
 
 class ConsultantImpl implements IEmployee {
     // Tương tự, cũng phải lặp lại việc khai báo id, name và các hàm get, display...
